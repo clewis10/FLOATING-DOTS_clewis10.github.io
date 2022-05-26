@@ -34,14 +34,14 @@
       "value": 15,
       "random": true,
       "anim": {
-        "enable": false,
+        "enable": true,
         "speed": 6,
         "size_min": 1,
-        "sync": false
+        "sync": true
       }
     },
     "line_linked": {
-      "enable": false
+      "enable": true
     },
     "move": {
       "enable": true,
@@ -62,8 +62,7 @@
     "detect_on": "canvas",
     "events": {
       "onhover": {
-        "enable": true,
-        "mode": "attract"
+        "enable": false
       },
       "onclick": {
         "enable": true,
