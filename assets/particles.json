@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 30,
+      "value": 40,
       "density": {
         "enable": true,
         "value_area": 800
@@ -31,7 +31,7 @@
       }
     },
     "size": {
-      "value": 15,
+      "value": 11,
       "random": true,
       "anim": {
         "enable": true,
