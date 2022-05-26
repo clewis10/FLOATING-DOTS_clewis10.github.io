@@ -42,14 +42,14 @@
     },
     "line_linked": {
       "enable": true,
-      "width": 5
+      "width": 2
     },
     "move": {
       "enable": true,
       "speed": 1,
       "direction": "bottom",
       "random": true,
-      "straight": true,
+      "straight": false,
       "out_mode": "out",
       "bounce": true,
       "attract": {
