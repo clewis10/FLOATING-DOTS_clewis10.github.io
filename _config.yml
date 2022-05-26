@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: charles
+title: hi internet
 # description: This will be meta HTML tag content. This can be ignored.
 description: dis my site b
 # baseurl: The subpath of your site
@@ -14,7 +14,7 @@ baseurl: ""
 username: charles
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: ...initializing
+typing_text: hello world
 # email: Your E-Mail address for the email button.
 email: 
 # For every social button you want to display, set your username or userid
