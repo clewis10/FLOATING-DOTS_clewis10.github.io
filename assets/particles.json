@@ -24,8 +24,8 @@
       "value": 0.7,
       "random": true,
       "anim": {
-        "enable": false,
-        "speed": 3,
+        "enable": true,
+        "speed": 0.5,
         "opacity_min": 0.4,
         "sync": false
       }
@@ -45,7 +45,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 2,
+      "speed": 1,
       "direction": "bottom",
       "random": true,
       "straight": false,
