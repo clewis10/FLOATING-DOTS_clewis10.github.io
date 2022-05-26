@@ -41,14 +41,15 @@
       }
     },
     "line_linked": {
-      "enable": true
+      "enable": true,
+      "width": 5
     },
     "move": {
       "enable": true,
       "speed": 1,
       "direction": "bottom",
       "random": true,
-      "straight": false,
+      "straight": true,
       "out_mode": "out",
       "bounce": true,
       "attract": {
